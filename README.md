@@ -1,2 +1,2 @@
 # Methbank
-A file contain perl scripts for Methbank v1.0
+A folder contains perl scripts for Methbank v1.0
